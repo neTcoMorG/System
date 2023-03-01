@@ -1,5 +1,6 @@
 ## **멀티 프로그래밍**
 
+![멀티 프로그래밍](https://user-images.githubusercontent.com/24227385/222244693-1fd2f30f-9d6e-4c1f-80c9-34cfd2a070f5.jpg)
 
 
 - 여러개의 프로그램을 메모리에 올려놓고 실행시킴
@@ -16,6 +17,7 @@
 
 ## 멀티 태스킹
 
+![멀티 태스킹](https://user-images.githubusercontent.com/24227385/222244713-e6104110-f5f7-42a9-ae5c-d1133a778192.jpg)
 
 
 - 멀티 프로그래밍의 단점을 보완함
@@ -52,7 +54,8 @@
 
 ## 멀티 스레딩
 
-[멀티 스레딩 사진]
+![멀티 쓰레딩](https://user-images.githubusercontent.com/24227385/222244736-36a7192f-e323-47fa-b554-eefe7d7a103b.jpg)
+
 
 - 하나의 `process`가 동시에 여러 `Thread` 실행하는데 목적
 - (확장된 멀티 태스킹) 이젠 프로세스가 아닌 여러 스레드가 CPU를 `quantum` 단위로 나눠 점유함
@@ -60,5 +63,8 @@
 
 
 ## 멀티 프로세싱
+
+![멀티 코어](https://user-images.githubusercontent.com/24227385/222244759-4b5ca2cd-c3ff-4c9c-a421-d59045ed7a9c.jpg)
+
 
 - 두 개 이상의 프로세서나 코어를 활용하는 시스템
