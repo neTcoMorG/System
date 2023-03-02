@@ -16,7 +16,7 @@
   
 ## 언제 발생?
 
-- 프로세스/스레드가 주어인 `time-slice`(=quantum)을 다 사용했거나
+- 프로세스/스레드가 주어진 `time-slice`(=quantum)을 다 사용했거나
 - `IO` `interrupt` `async` 등 발생되거나
 
 
